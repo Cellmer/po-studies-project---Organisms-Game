@@ -1,0 +1,171 @@
+13 13
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Guarana 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Belladonna 99
+Empty
+Empty
+Milt 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Antelope 4
+Turtle 2
+Empty
+Empty
+Belladonna 99
+Empty
+Empty
+SosnowskyHogweed 10
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Wolf 9
+Empty
+Empty
+Empty
+Empty
+Milt 0
+Empty
+SosnowskyHogweed 10
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Grass 0
+Grass 0
+Fox 3
+Empty
+Empty
+Empty
+Grass 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Guarana 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Sheep 4
+Fox 6
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Wolf 9
+Empty
+Empty
+Empty
+Empty
+Antelope 4
+Empty
+Belladonna 99
+Empty
+Empty
+Empty
+Empty
+Empty
+Turtle 2
+Empty
+Wolf 9
+Empty
+Empty
+Antelope 4
+Empty
+Empty
+Empty
+Empty
+SosnowskyHogweed 10
+Empty
+Empty
+Empty
+Empty
+Sheep 4
+Empty
+Empty
+Empty
+Grass 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Human 5
+Empty
+Empty
+Empty
+Empty
+Empty
+Fox 3
+Empty
+Empty
+Guarana 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+1 3

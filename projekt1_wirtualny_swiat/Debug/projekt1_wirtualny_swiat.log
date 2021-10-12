@@ -1,0 +1,16 @@
+﻿  Animal.cpp
+  Antelope.cpp
+  Fox.cpp
+  Human.cpp
+  Organism.cpp
+  Plant.cpp
+  SosnowskyHogweed.cpp
+  World.cpp
+C:\Dev\Studies\Programowanie Obiektowe\projekty\projekt1_wirtualny_swiat\projekt1_wirtualny_swiat\World.cpp(43,22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Dev\Studies\Programowanie Obiektowe\projekty\projekt1_wirtualny_swiat\projekt1_wirtualny_swiat\World.cpp(189,20): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\Studies\Programowanie Obiektowe\projekty\projekt1_wirtualny_swiat\projekt1_wirtualny_swiat\World.cpp(250,16): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\Studies\Programowanie Obiektowe\projekty\projekt1_wirtualny_swiat\projekt1_wirtualny_swiat\World.cpp(313,20): warning C4018: '<': signed/unsigned mismatch
+C:\Dev\Studies\Programowanie Obiektowe\projekty\projekt1_wirtualny_swiat\projekt1_wirtualny_swiat\World.cpp(405,20): warning C4018: '<': signed/unsigned mismatch
+  projekt1_wirtualny_swiat.cpp
+  Generating Code...
+  projekt1_wirtualny_swiat.vcxproj -> C:\Dev\Studies\Programowanie Obiektowe\projekty\projekt1_wirtualny_swiat\Debug\projekt1_wirtualny_swiat.exe
